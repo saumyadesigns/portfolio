@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4aa1bfa5.css",
+    "main.js": "/portfolio/static/js/main.c7501be5.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/sketchDisp.png": "/portfolio/static/media/sketchDisp.7d7889a86ead50e5a36d.png",
+    "static/media/lampDisp.png": "/portfolio/static/media/lampDisp.63abff7218b10c9d3044.png",
+    "static/media/clouds.png": "/portfolio/static/media/clouds.560007a7e682016f7698.png",
+    "static/media/astraDisp.png": "/portfolio/static/media/astraDisp.bd1b9f337f9cb8cef97c.png",
+    "static/media/1.png": "/portfolio/static/media/1.18e4626b5e67fe868ccd.png",
+    "static/media/2.png": "/portfolio/static/media/2.9d3920f2bc38f96f02a3.png",
+    "static/media/Newsreader_14pt-Italic.ttf": "/portfolio/static/media/Newsreader_14pt-Italic.ee5a1c47fdec9bc467be.ttf",
+    "static/media/sketch.png": "/portfolio/static/media/sketch.bbc29d93369440470790.png",
+    "static/media/Newsreader_14pt-Regular.ttf": "/portfolio/static/media/Newsreader_14pt-Regular.018f04f55dc01b35c185.ttf",
+    "static/media/lamp.png": "/portfolio/static/media/lamp.7da6f150c08d670b4676.png",
+    "static/media/astra_sticker_pack.png": "/portfolio/static/media/astra_sticker_pack.cbbd4f5cef23f8310447.png",
+    "static/media/scribble.mp3": "/portfolio/static/media/scribble.985f5c5c43c281c19ac9.mp3",
+    "static/media/flip.mp3": "/portfolio/static/media/flip.482865a614fed3add746.mp3",
+    "static/media/pencil.mp3": "/portfolio/static/media/pencil.2d9f0a7b559df7ec9d5e.mp3",
+    "static/media/rclick.mp3": "/portfolio/static/media/rclick.8a763dc94dd8642a3eed.mp3",
+    "index.html": "/portfolio/index.html",
+    "main.4aa1bfa5.css.map": "/portfolio/static/css/main.4aa1bfa5.css.map",
+    "main.c7501be5.js.map": "/portfolio/static/js/main.c7501be5.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aa1bfa5.css",
+    "static/js/main.c7501be5.js"
+  ]
+}
