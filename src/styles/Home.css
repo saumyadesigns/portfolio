@@ -1,0 +1,171 @@
+
+.cir {
+  width:20%;
+  height:auto;
+  position:absolute;
+  margin:0;
+  right: 130px;
+  top: 200px;
+  filter:drop-shadow(3px 3px 3px #5F5D6C )
+}
+
+.cir:hover{
+  transform: translateY(-10px);
+  
+  filter:drop-shadow(10px 10px 3px pink)
+}
+
+.cl{
+  position: absolute;
+
+  width:100%;
+  top:60%;
+}
+
+.home a {
+  box-shadow: inset 0 0 0 0 pink ;
+  color: #5F5D6C;
+  margin: 0 -.25rem;
+  padding: 0 .25rem;
+  transition: color .7s ease-in-out, box-shadow .7s ease-in-out;
+  text-shadow: 2px 5px 0.7px pink ;
+}
+
+
+
+.home a:hover{
+  box-shadow: inset 1000px 0 0 0 pink ;
+  color: white;
+}
+
+
+.home {
+  width: 100%;
+  align-items: right;
+  background-color: #FFF2F3;
+  color: #5F5D6C;
+  text-align: left;
+
+
+  
+}
+
+.about {
+  width: 100%;
+  height: calc(100vh - 100px);
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: left;
+  background-color: #FFF2F3;
+  color: #FFF2F3;
+  
+}
+
+.about h2 {
+  font-family: 'Quickpen';
+  font-size: 80px;
+  color: #5F5D6C;
+  height: 50px;
+  text-align: left;
+  margin-left: 220px;
+  margin-top: 150px;
+
+  
+}
+
+.about .prompt p {
+  width: 40%;
+  font-size: 36px;
+  margin-left: 220px;
+  
+  font-family: 'Quickpen';
+  font-style: italic;
+  color: #5F5D6C;
+  
+  
+
+}
+
+.about .OogaBooga{
+  width: 40%;
+  font-size: 18px;
+  margin-left: 220px;
+  font-family: 'Newsreader Regular';
+  font-style: italic;
+  color: #5F5D6C;
+  margin-top: -40px;
+}
+
+.prompt svg {
+  font-size: 60px;
+  margin: 5px;
+  color: white;
+}
+
+
+.Skills {
+  font-size: 36px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: left;
+  margin-top:200px;
+}
+
+.Skills h1 {
+  color: #5F5D6C;
+  margin-left: 220px;
+  font-size: 48px;
+  font-family: 'Quickpen';
+  font-style: italic;
+  text-shadow: 3px 3px 1px pink ;
+  
+  
+}
+
+
+.Skills .list {
+  list-style: none;
+  width: 60%;
+  margin-left: 180px;
+  
+}
+
+.list h2{
+  font-size: 36px ;
+  font-family: 'Quickpen';
+  text-shadow: 2px 2px 1px pink ;
+ 
+}
+
+.list span {
+  font-size: 18px;
+  font-family: 'Newsreader Italic','Newsreader Regular','Newsreader';
+  font-style: italic;
+}
+
+@media only screen and (max-width: 600px) {
+  .about h2 {
+    font-size: 40px;
+  }
+
+  .about .prompt {
+    margin-top: 10px;
+    font-size: 20px;
+    width: 80%;
+  }
+
+  .Skills {
+    text-align: center;
+  }
+  .list {
+    padding: 0;
+  }
+
+  .Skills h2 {
+    font-size: 30px;
+  }
+}
+
